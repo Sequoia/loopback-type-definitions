@@ -24,7 +24,7 @@ declare namespace Loopback {
         /**
          * Name of the data source to which the model is connected. Must correspond to a data source defined in [datasources.json](https://docs.strongloop.com/display/APIC/datasources.json).
          */
-        datasource?: string;
+        dataSource?: string;
         /**
          * Whether the model API is exposed.
 
